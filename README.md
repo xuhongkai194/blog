@@ -8,11 +8,11 @@ The project is divided into three parts, namely, the basic part of JavaScript, t
 - My responsibilities: Personal full stack development using Node
 
 ### Project Function
--Technical stack: Node (Express framework for back-end)+ bootstrap framework to write front-end style, nod module Mongoose to operate mongodb database 
--1 can register with the avatar (password encrypted storage), can log in 
--2. User information needs to be recorded during login. After successful login, user information (user name and profile picture) will be displayed on the blog page. 
--3 After login can publish a blog, can modify blog, can delete the blog, can comment blog 
--4 Can display the number of blog views You can only browse blogs without logging in
+- Technical stack: Node (Express framework for back-end)+ bootstrap framework to write front-end style, nod module Mongoose to operate mongodb database
+- can register with the avatar (password encrypted storage), can log in
+- User information needs to be recorded during login. After successful login, user information (user name and profile picture) will be displayed on the blog page.
+- After login can publish a blog, can modify blog, can delete the blog, can comment blog
+- Can display the number of blog views You can only browse blogs without logging in
 
 #### Three model classes:
 - user. js: User information model class
